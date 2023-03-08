@@ -1,6 +1,6 @@
-# Quasar App (quasar-project)
+# testeOKN
 
-A Quasar Project
+A Vue/Quasar Project
 
 ## Install the dependencies
 ```bash
@@ -31,5 +31,4 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
-# testeOKN
-# testeOKN
+
